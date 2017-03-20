@@ -6,8 +6,6 @@ type: sidebarpage
 
 Curriculum Vitae in [PDF]({{ site.url }}/docs/Nare_Karapetyan_CV.pdf)
 
-
-
 ###Education:
 **Univesity of South Carolina**, *USA (current)* <br/>
 PhD in Computer Science and Engineering 
@@ -87,7 +85,7 @@ MoES tuition fee scholarship, *2009-2012*
 [Algorithms: Design and Analysis, Part 1](https://www.coursera.org/course/algo) *01/2013 – 03/2013* [[Certificate](https://www.coursera.org/maestro/api/certificate/get_certificate?course_id=172)] <br />
 [Control of Mobile Robots](),  *01/2013 – 03/2013* [[Certificate](https://www.coursera.org/maestro/api/certificate/get_certificate?course_id=266)] <br />
 
-**Lomonosov Moscow State University** <br> 
-*Moscow Russia, Feb - May, 2012*
+**Lomonosov Moscow State University** <br/> 
+*Moscow Russia, Feb - May, 2012* <br/>
 Visiting Student, taken courses in Assembly language and Compiler Technologies. <br />
 

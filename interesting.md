@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Some Interesting links
+title: Links
 type: sidebarpage
 ---
 

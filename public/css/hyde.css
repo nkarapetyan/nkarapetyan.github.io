@@ -48,6 +48,17 @@ html {
 }
 
 /*
+ * Avatar Photo
+ *
+ */
+
+.bio-photo {
+    max-width: 250px;
+    border-radius: 250px;
+    margin: auto;
+}
+
+/*
  * Navbar
  *
  * Navigation bar 
@@ -92,10 +103,10 @@ padding: 14px 16px;
 
 .sidebar {
   text-align: center;
-  padding: 3rem 2rem;
+  padding: 3rem 3rem;
   color: rgba(0,0,0,.5);
   background-color: #ffffff;
-  border-right: 2px solid #D3D3D3;
+/*border-right: 2px solid #D3D3D3;*/
   display: inline;
 }
 @media (min-width: 48em) {
@@ -111,7 +122,7 @@ padding: 14px 16px;
 
 /* Sidebar links */
 .sidebar a {
-  color: #000;
+  color: #2A6969;
 }
 
 /* About section */
@@ -124,11 +135,11 @@ padding: 14px 16px;
 
 /* Sidebar nav */
 .sidebar-nav {
-  margin-bottom: 1rem;
+  margin-bottom: 2rem;
 }
 .sidebar-nav-item {
   display: block;
-  line-height: 1.75;
+  /*line-height: 1.75;*/
 }
 a.sidebar-nav-item:hover,
 a.sidebar-nav-item:focus {
@@ -150,6 +161,7 @@ a.sidebar-nav-item:focus {
     right:  1rem;
     bottom: 1rem;
     left:   1rem;
+text-align: center;
   }
 }
 

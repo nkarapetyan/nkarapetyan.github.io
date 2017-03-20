@@ -84,11 +84,12 @@ h1, h2, h3, h4, h5, h6 {
   margin-bottom: .5rem;
   font-weight: bold;
   line-height: 1.25;
-  color: #313131;
+  color: rgba(117, 181, 170, 0.74);
+
   text-rendering: optimizeLegibility;
 }
 h1 {
-  font-size: 2rem;
+  font-size: 1.2rem;
 }
 h2 {
   margin-top: 1rem;
@@ -107,6 +108,7 @@ h4, h5, h6 {
 p {
   margin-top: 0;
   margin-bottom: 1rem;
+	text-align: justify;
 }
 
 strong {
@@ -259,7 +261,7 @@ tbody tr:nth-child(odd) th {
  */
 
 .lead {
-  font-size: 1.25rem;
+  font-size: 14px;
   font-weight: 300;
 }
 
@@ -337,11 +339,13 @@ tbody tr:nth-child(odd) th {
 .page-title,
 .post-title,
 .post-title a {
-  color: #303030;
+  color: rgba(64, 150, 150, 0.31);
+  text-transform: uppercase;
 }
 .page-title,
 .post-title {
   margin-top: 0;
+  margin-bottom: 1cm;
 }
 
 /* Meta data line below post title */

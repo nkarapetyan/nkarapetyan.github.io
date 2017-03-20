@@ -2,15 +2,17 @@
   <div class="container sidebar-sticky">
     <div class="sidebar-about">
 
-{% if author.avatar contains 'https' %}
+    <a href="">
+{% if author.avatar contains 'http' %}
 	<img src="{{ author.avatar }}" class="bio-photo" alt="{{ author.name }} bio photo">
 {% else %}
-	<img src="{{ site.url }}/images/{{ author.avatar }}" class="bio-photo" alt="{{ author.name }} bio photo">
+	<img src="{{ site.url }}/images/{{ site.author.avatar }}"  class="bio-photo" alt="{{ author.name }} bio photo">
 {% endif %}
+</>
 
       <h3>
         <a href="{{ site.baseurl }}">
-          {{ site.title }}
+            {{ site.title }}<br><small>{{ site.title2 }}</small></i>
         </a>
       </h3>
       <p class="lead">{{ site.description }}</p>
@@ -26,13 +28,13 @@
       {% assign pages_list = site.pages %}
       {% for node in pages_list %}
         {% if node.title != null %}
-          {% if node.layout == "page" %}
+          {% if node.type == "sidebarpage" %}
             <a class="sidebar-nav-item{% if page.url == node.url %} active{% endif %}" href="{{ node.url }}">{{ node.title }}</a>
           {% endif %}
         {% endif %}
       {% endfor %}
 
-<!--      <a class="sidebar-nav-item{% if page.url == site.baseurl %} active{% endif %}" href="{{ site.baseurl }}">Home</a> 
+<!--      <a class="sidebar-nav-item{% if page.url == site.baseurl %} active{% endif %}" href="{{ site.baseurl }}">About</a> 
       <a class="sidebar-nav-item" href="{{ site.github.repo }}/archive/v{{ site.version }}.zip">Download</a> 
       <a class="sidebar-nav-item" href="{{ site.github.repo }}">GitHub project</a> -->
     </nav>

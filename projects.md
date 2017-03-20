@@ -1,16 +1,23 @@
 ---
 layout: page
 title: Projects
+type: sidebarpage
 ---
 
+###Research
 
-* Gamification in Education (ongoing): Research in the field of intelligent tutoring and gamification in education.
+* Gamification in Education (ongoing): Joint research project under supervision of [Dr. Nelson Baloian](https://www.dcc.uchile.cl/nelson_baloian). [[Abstract] ()]
+
+
+* [Multi Robot Area Coverage] (/projects/mrcover) : Master thesis research project under supervision of [Dr. Perouz Taslakian](http://www.perouz.com). Research  and development of the approximation algorithms for multi-agent area coverage. Implemented method increases the utilization by 11% on average and decreases the maximum coverage cost by 8%. [[Abstract]()] [[Slides]()]
+
+* Stress Model Calibration:  Research the latest direct-search  optimizations for applying it on stress model calibration function. Writing a technical report. [[Report]({{ site.url }}/public/docs/Report.pdf)]
+
+* GVN/PRE algorithm implementation for DFG JIT compiler:  Research optimizations for DFG JIT compiler. As a result of research GVN/PRE optimization for SFX JIT compiler was implemented. [[Code](https://github.com/nkarapetyan/gvn)]
+
+### Developement
 
 * Solar energy production prediction: Predicting  an amount of energy produced by a solar electricity generating facility. Implemented in R using Gradient Boosting Machine (gbm) method. The mean error rate acquired is near to 0.18.
-
-* Multi Robot Area Coverage: Research  and development the approximation algorithms for multi-agent area coverage. Implemented method increases the utilization by 11% on average and decreases the maximum coverage cost by 8%
-
-* Stress Model Calibration:  Research the latest direct-search  optimizations for applying it on stress model calibration function. Writing a technical report.
 
 * Car License Plate detection for verification system: Research the existing detection algorithms, finding appropriate solution within the scope of the problem; determine the key features for number plate detection. Training data creation. The accuracy of prediction acquired was 85%.
 
@@ -20,10 +27,10 @@ title: Projects
 
 * Verification card code Extraction: Implement a system which detects a code in the given card, and recognizes it. Within this project was implemented digit recognition system using HOG features. 
 
-* GVN/PRE algorithm implementation for DFG JIT compiler:  Research optimizations for DFG JIT compiler. As a result of research GVN/PRE optimization for SFX JIT compiler was implemented.
 
 * Mine sweeper robot: Design and build the robot 
 
 * Howler messenger: Design and implement client-server application, using POSIX threads and sockets.  Write documentation - functional specifications. 
 
 * Interruption Vector Table Changes: Change INT 21H functions original purposes by changing IVT on real time DOS system.
+

@@ -5,8 +5,8 @@ type: sidebarpage
 ---
 
 ###Learning 
-[An interesting essay Learnable Programming](http://worrydream.com/LearnableProgramming/) <br/>
-[Article from O'Reily about how to learn programming](http://radar.oreilly.com/2015/09/are-there-some-students-who-cant-learn-how-to-code.html) <br/>
+[An interesting essay Learnable Programming by Bret Victor](http://worrydream.com/LearnableProgramming/) <br/>
+[Article from O'Reily on how to learn programming](http://radar.oreilly.com/2015/09/are-there-some-students-who-cant-learn-how-to-code.html) <br/>
 
 ###Talks
 [Robots That Fly and Cooperate](https://www.ted.com/talks/vijay_kumar_robots_that_fly_and_cooperate) <br/>

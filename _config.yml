@@ -1,5 +1,5 @@
 # Dependencies
-markdown:         redcarpet
+markdown:         kramdown 
 highlighter:      pygments
 
 # Permalinks
@@ -18,7 +18,7 @@ data:
 author:
   name:           'Nare Karapetyan'
   avatar: 	      cover.jpg
-paginate:         2
+paginate:         5
 
 # Custom vars
 version:          2.1.0

@@ -4,11 +4,11 @@ title: Links
 type: sidebarpage
 ---
 
-###Learning 
+###Articles on Learning 
 [An interesting essay Learnable Programming by Bret Victor](http://worrydream.com/LearnableProgramming/) <br/>
 [Article from O'Reily on how to learn programming](http://radar.oreilly.com/2015/09/are-there-some-students-who-cant-learn-how-to-code.html) <br/>
 
-###Talks
+###Some TED Talks
 [Robots That Fly and Cooperate](https://www.ted.com/talks/vijay_kumar_robots_that_fly_and_cooperate) <br/>
 [Bring on the Learning Revolution!](https://www.ted.com/talks/sir_ken_robinson_bring_on_the_revolution) <br/>
 [Brain Magic](https://www.ted.com/talks/keith_barry_does_brain_magic) <br/>

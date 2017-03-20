@@ -4,7 +4,7 @@ title: cv
 type: sidebarpage
 ---
 
-Curriculum Vitae in [PDF({{ site.url }}/docs/Nare_Karapetyan_CV.pdf)]
+Curriculum Vitae in [PDF]({{ site.url }}/docs/Nare_Karapetyan_CV.pdf)
 
 
 
@@ -69,10 +69,10 @@ MoES tuition fee scholarship, *2009-2012*
 
 ###Additional Courses and Programs:
 
-**Bellairs Annual Field Trials and Workshop**
+**Bellairs Annual Field Trials and Workshop** <br />
 *Holetown Barbados, Jan 01-14, 2017*
 
-**IBM Watson training**
+**IBM Watson training** <br />
 *Yerevan Armenia, Feb 22-25, 2015*
 
 **21th International Conference on Collaboration and Technology ([CRIWG 2015](https://criwg2015.aua.am/))** <br />

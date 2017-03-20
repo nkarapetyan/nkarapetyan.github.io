@@ -7,7 +7,10 @@ type: sidebarpage
 Curriculum Vitae in [PDF({{ site.url }}/docs/Nare_Karapetyan_CV.pdf)]
 
 
+
 ###Education:
+**Univesity of South Carolina**, *USA (current)* <br/>
+PhD in Computer Science and Engineering 
 
 **American University of Armenia**, *Armenia 2015* <br/> 
 M.Sc. in Computer and Information Science <br/>
@@ -65,6 +68,12 @@ Robotics competition <br />
 MoES tuition fee scholarship, *2009-2012*
 
 ###Additional Courses and Programs:
+
+**Bellairs Annual Field Trials and Workshop**
+*Holetown Barbados, Jan 01-14, 2017*
+
+**IBM Watson training**
+*Yerevan Armenia, Feb 22-25, 2015*
 
 **21th International Conference on Collaboration and Technology ([CRIWG 2015](https://criwg2015.aua.am/))** <br />
 *Yerevan Armenia, Sept 22-25, 2015*

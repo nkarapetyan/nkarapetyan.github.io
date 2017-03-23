@@ -1,7 +1,7 @@
 ---
-layout: page
-title: Projects
-type: sidebarpage
+#layout: page
+#title: Projects
+#type: sidebarpage
 ---
 
 ## UNDER REconstruction

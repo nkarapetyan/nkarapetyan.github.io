@@ -17,7 +17,7 @@ data:
 
 author:
   name:           'Nare Karapetyan'
-  avatar: 	      cover.jpg
+  avatar: 	      img.jpg
 paginate:         5
 
 # Custom vars

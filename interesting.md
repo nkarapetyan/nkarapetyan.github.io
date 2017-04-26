@@ -17,3 +17,7 @@ type: sidebarpage
 [Bring on the Learning Revolution!](https://www.ted.com/talks/sir_ken_robinson_bring_on_the_revolution) <br/>
 [Brain Magic](https://www.ted.com/talks/keith_barry_does_brain_magic) <br/>
 [Deepika Kurup: A young scientist's quest for clean water](https://www.ted.com/talks/deepika_kurup_a_young_scientist_s_quest_for_clean_water) <br/>
+
+###Other
+[An article about me](http://newsroom.aua.am/2017/03/22/nare-karapetyan-mscis-15-admitted-to-university-of-south-carolina/)
+

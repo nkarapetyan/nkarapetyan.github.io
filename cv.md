@@ -4,10 +4,10 @@ title: cv
 type: sidebarpage
 ---
 
-Curriculum Vitae in [PDF({{ site.url }}/docs/Nare_Karapetyan_CV.pdf)]
+Curriculum Vitae in [PDF]({{ site.url }}/docs/Nare_Karapetyan_CV.pdf)
 
 
-###Education:
+### Education:
 
 **American University of Armenia**, *Armenia 2015* <br/> 
 M.Sc. in Computer and Information Science <br/>
@@ -16,7 +16,7 @@ Thesis Title: “Area Coverage for Multi-Robot Systems”
 **Yerevan State University**, *Armenia 2012* <br/>
 B.Sc. in Applied Mathematics and Informatics
 
-###Experience:
+### Experience:
 
 **University of South Carolina** <br />
 Research and Teaching Assistant <br />
@@ -38,7 +38,7 @@ Software Developer, Scholar<br />
 Part-time student at Software Engineering Training Center <br />
 *Yerevan Armenia, Jan - July 2011*
 
-###Skills:
+### Skills:
 
 **Programming:**	C/C++,  Python, bash scripting, octave
 **Libraries:**		STL, QT, OpenCV, Boost (GBL), ROS, scikit-learn
@@ -46,12 +46,12 @@ Part-time student at Software Engineering Training Center <br />
 **Languages:**		Armenian (native), Russian (fluent), English (professional)
 
 
-###PUBLICATIONS
+### PUBLICATIONS
 **[1]** **Nare Karapetyan**, Kelly Benson, Chris McKinney, Perouz Taslakian, Ioannis Rekleitis, Efficient Multi-Robot Coverage of a Known Environment, *2017 IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS)*, Vancouver, Canada, 2017, (accepted)
 
 **[2]** Nelson Baloian, Wolfram Luther, Daniel Biella, **Nare Karapetyan**, Jose A. Pino, Tobias Schreck, Nancy Hitschfeld, Exploring Collaboration in the Realm of Virtual Museums, *23rd International Conference on Collaboration and Technology (CRIWG)*, Saskatoon, Canada, 2017, (accepted) 
 
-###Awards and scholarships:
+### Awards and scholarships:
 **Armenian General Benevolent Union (AGBU)** <br />
 US Graduate Scholarship, *2017* <br />
 
@@ -78,7 +78,7 @@ Robotics competition <br />
 **Yerevan State University** <br />
 MoES tuition fee scholarship, *2009-2012*
 
-###Additional Courses and Programs:
+### Additional Courses and Programs:
 
 **Deep Learning and Reinforcement Learning Summer School** <br />
 Montreal, Canada, Jun 28 - Jul 5, 2017 <br />

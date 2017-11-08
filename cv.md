@@ -55,7 +55,8 @@ Part-time student at Software Engineering Training Center <br />
 **[2]** Nelson Baloian, Wolfram Luther, Daniel Biella, **Nare Karapetyan**, Jose A. Pino, Tobias Schreck, Nancy Hitschfeld, Exploring Collaboration in the Realm of Virtual Museums, *23rd International Conference on Collaboration and Technology (CRIWG)*, Saskatoon, Canada, 2017, (accepted) 
 
 ### Awards and scholarships:
-*IROS Travel Award* funded by US NSF (2017) <br />
+**IROS Travel Award** <br />
+US National Science Foundation, *2017*
 
 **Armenian General Benevolent Union (AGBU)** <br />
 US Graduate Scholarship, *2017* <br />
@@ -83,7 +84,12 @@ Robotics competition <br />
 **Yerevan State University** <br />
 MoES tuition fee scholarship, *2009-2012*
 
-### Additional Courses and Programs:
+### Confernces, Workshops, and Schools:
+**Interantional Conference on Intelligent Robots (IROS)** <br />
+Vancouver, Canada, Sept 24-28, 2017 <br />
+
+**ROSCon 2017** <br />
+Vancouver, Canada, Sept 21-22, 2017 <br />
 
 **Deep Learning and Reinforcement Learning Summer School** <br />
 Montreal, Canada, Jun 28 - Jul 5, 2017 <br />
@@ -99,6 +105,8 @@ Yerevan, Armenia, Feb 22 - 25, 2015 <br />
 
 **Machine Learning Summer School ([MLSS](http://www.i.kyoto-u.ac.jp/mlss15/))** <br />
 *Kyoto, Japan, Aug 23 - Sept 4, 2015*
+
+### Additional Courses:
 
 **Coursera Inc, [coursera.org](https://www.coursera.org/)** <br />
 [Machine Learning](https://www.coursera.org/learn/machine-learning), *04/2013 – 06/2013* [[Certificate](https://www.coursera.org/maestro/api/certificate/get_certificate?course_id=973756)]<br />

@@ -9,6 +9,9 @@ Curriculum Vitae in [PDF]({{ site.url }}/docs/Nare_Karapetyan_CV.pdf)
 
 ### Education:
 
+**University of South Carolina**, *USA* <br/>
+PhD in Computer Science
+
 **American University of Armenia**, *Armenia 2015* <br/> 
 M.Sc. in Computer and Information Science <br/>
 Thesis Title: “Area Coverage for Multi-Robot Systems”
@@ -52,6 +55,8 @@ Part-time student at Software Engineering Training Center <br />
 **[2]** Nelson Baloian, Wolfram Luther, Daniel Biella, **Nare Karapetyan**, Jose A. Pino, Tobias Schreck, Nancy Hitschfeld, Exploring Collaboration in the Realm of Virtual Museums, *23rd International Conference on Collaboration and Technology (CRIWG)*, Saskatoon, Canada, 2017, (accepted) 
 
 ### Awards and scholarships:
+*IROS Travel Award* funded by US NSF (2017) <br />
+
 **Armenian General Benevolent Union (AGBU)** <br />
 US Graduate Scholarship, *2017* <br />
 

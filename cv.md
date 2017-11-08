@@ -56,7 +56,7 @@ Part-time student at Software Engineering Training Center <br />
 
 ### Awards and scholarships:
 **IROS Travel Award** <br />
-US National Science Foundation, *2017*
+IEEE Robotics and Automation Society, *2017*
 
 **Armenian General Benevolent Union (AGBU)** <br />
 US Graduate Scholarship, *2017* <br />

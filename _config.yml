@@ -23,4 +23,7 @@ version:          2.1.0
 
 github:
   repo:           https://github.com/poole/hyde
+  
+plugins:
+  - jekyll-seo-tag
 

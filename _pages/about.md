@@ -3,6 +3,9 @@ permalink: /about/
 title: "About"
 ---
 
-Tempor velit sint sunt ipsum tempor enim ad qui ullamco. Est dolore anim ad velit duis dolore minim sunt aliquip amet commodo labore. Ut eu pariatur aute ea aute excepteur laborum. Esse ea esse excepteur minim mollit qui cillum excepteur ex dolore magna. Labore deserunt fugiat incididunt incididunt sint ea. Consequat dolore aute laboris quis proident quis non et est consectetur ex eiusmod sit culpa.
+I am PhD candidate at the University of South Carolina ([USC](https://cse.sc.edu)) at the Department of Computer Science and Engineering. I am working in Autonomous Field Robotics Laboratory ([AFRL](http://afrl.cse.sc.edu/afrl/home/)) under supervision of [Dr. Ioannis Rekleitis](https://cse.sc.edu/~yiannisr/). My current research is on multi-agent systems.
 
-Cupidatat ea do et in excepteur in. Ad nostrud ut est esse eu duis ea sunt eiusmod. Aliquip tempor veniam sint elit fugiat. Velit incididunt laboris amet incididunt labore dolore irure velit excepteur commodo deserunt laborum. Consectetur eu fugiat veniam veniam Lorem labore magna eiusmod. Ea occaecat reprehenderit pariatur consectetur minim labore ut aliquip.
+**Research Interests:**
+
+* Multi-robot systems, path planning, machine learning, reinforcement learning, algorithms.
+

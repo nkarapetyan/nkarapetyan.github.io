@@ -13,7 +13,7 @@ minimal_mistakes_skin    : "default" # "air", "aqua", "contrast", "dark", "dirt"
 locale                   : "en-US"
 title                    : "Nare Karapetyan" # &name is a YAML anchor which can be *referenced late
 title_separator          : "-"
-name                     : "" 
+name                     : ""
 description              : &description "A flexible Jekyll theme for your blog or site with a minimalist aesthetic."
 url                      : https://nkarapetyan.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 #baseurl                  : "/" # the subpath of your site, e.g. "/blog"
@@ -107,18 +107,21 @@ analytics:
 author:
   name             : *name # *name is a YAML reference pointing to the &anchor earlier
   avatar           : "/assets/images/bio-photo.jpg"
-  bio              : "I code for robots, dive with them in oceans or drive them over lakes and rivers."
+  bio              : "I come up with algorithms and code and code for robots, dive with them in oceans or drive them over lakes and rivers."
   location         : "Columbia, SC"
   links:
+    - label: "Linkdin"
+      icon: "fab fa-fw fa-linkdin-square"
+      url: "https://www.linkedin.com/in/nkarapetyan"
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
       url: "https://twitter.com/robobzbz"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/nkarapetyan"
-    - label: "Instagram"
-      icon: "fab fa-fw fa-instagram"
-      url: "https://instagram.com/mmistakes"
+    #- label: "Instagram"
+    #  icon: "fab fa-fw fa-instagram"
+    #  url: "https://instagram.com/nkaryan"
 
 
 # Site Footer
@@ -234,7 +237,7 @@ defaults:
               #          layout: single
               #          author_profile: false
               #          share: true
-              #    
+              #
 
 # Sass/SCSS
 sass:

@@ -110,8 +110,8 @@ author:
   bio              : "I come up with algorithms and code for robots, dive with them in oceans or drive them over lakes and rivers."
   location         : "Columbia, SC"
   links:
-    - label: "Linkdin"
-      icon: "fab fa-fw fa-linkdin"
+    - label: "Linkedin"
+      icon: "fab fa-fw fa-linkedin"
       url: "https://www.linkedin.com/in/nkarapetyan"
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"

@@ -133,8 +133,8 @@ footer:
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/nkarapetyan"
-    - label: "Linkdin"
-      icon: "fab fa-fw fa-linkdin"
+    - label: "Linkedin"
+      icon: "fab fa-fw fa-linkedin"
       url: "https://www.linkedin.com/in/nkarapetyan"
 
 

@@ -3,6 +3,8 @@ permalink: /publications/
 title: "Publications"
 ---
 
+dhjshfkdshfkdsh
+
 *Publicly available versions can be found [here](https://scholar.google.com/citations?user=BvTFNTkAAAAJ&hl=en&oi=ao).*
 
 **[12]** Marios Xanthidis, **Nare Karapetyan**, Hunter Damron, Sharmin Rahman, James Johnson, Allison O’Connell, Jason M. O’Kane, and Ioannis Rekleitis; Navigation  in  the  Presence  of  Obstacles  for  an  Agile  Autonomous Underwater  Vehicle, In IEEE International Conference on Robotics and Automation (ICRA), Paris, France,, 2020 (submitted)

@@ -22,12 +22,12 @@ foo:
 main:
   - title: "About"
     url: /about/
-  - title: "Projects"
-    url: /projects/
+  - title: "CV"
+    url: /assets/docs/cv_Sept_2019.pdf
   - title: "Publications"
     url: /publications/
-  - title: "Terms &amp; Privacy Policy"
-    url: /terms/
+    #- title: "Terms &amp; Privacy Policy"
+    #url: /terms/
 
 
 # documentation links

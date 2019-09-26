@@ -107,8 +107,8 @@ analytics:
 author:
   name             : *name # *name is a YAML reference pointing to the &anchor earlier
   avatar           : "/assets/images/bio-photo.jpg"
-  bio              : "I come up with algorithms and code for robots, dive with them in oceans or drive them over lakes and rivers."
-  location         : "Columbia, SC"
+  bio              : "I code for robots, dive with them in oceans or drive them over lakes and rivers."
+  #location         : "Columbia, SC"
   links:
     - label: "Linkedin"
       icon: "fab fa-fw fa-linkedin"

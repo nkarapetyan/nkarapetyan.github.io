@@ -25,7 +25,7 @@ main:
   - title: "CV"
     url: /assets/docs/cv.pdf
   - title: "Publications"
-    url: /publications/
+    url: https://sites.google.com/view/nkarapetyan/publications
     #- title: "Terms &amp; Privacy Policy"
     #url: /terms/
 

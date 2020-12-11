@@ -1,5 +1,5 @@
 ---
-permalink: https://sites.google.com/view/nkarapetyan
+permalink: //
 title: "About"
 ---
 

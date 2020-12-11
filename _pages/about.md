@@ -7,4 +7,4 @@ I am PhD candidate at the University of South Carolina ([USC](https://cse.sc.edu
 
 **Research Interests:**
 
-* Multi-robot systems, path planning, machine learning, reinforcement learning, algorithms.
+* area coverage, marine robotics, multi-robot systems, path planning, exploration, autonomous systems

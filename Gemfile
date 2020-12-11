@@ -15,6 +15,7 @@ group :jekyll_plugins do
   gem "jemoji"
   gem "jekyll-include-cache"
   gem "jekyll-algolia"
-  gem "nokogiri", ">= 1.10.8"
+  gem "nokogiri", ">= 1.10.3"
   gem "rubyzip", ">= 1.3.0"
+  gem "kramdown", ">=2.3.0"
 end

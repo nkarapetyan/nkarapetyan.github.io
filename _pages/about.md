@@ -8,8 +8,6 @@ I am a postdoctoral associate at Maryland Robotics Center at University of Maryl
 
 I have received my PhD from University of South Carolina ([USC](https://cse.sc.edu)) in Computer Science. I was working in Autonomous Field Robotics Laboratory ([AFRL](http://afrl.cse.sc.edu/afrl/home/)) under supervision of [Dr. Ioannis Rekleitis](https://cse.sc.edu/~yiannisr/). My research is on area coverage both for two and three dimensional areas, with particular applications in aquatic domain. I want to enable more efficient and task oriented coverage techniques for environmental monitoring and survey operations. I sometimes draw inspiration from human expertise in performing specific tasks and try to adapt similar reasoning in algorithms I am developing for surface and underwater robots.
 
-I am PhD candidate at the University of South Carolina ([USC](https://cse.sc.edu)) at the Department of Computer Science and Engineering. I am working in Autonomous Field Robotics Laboratory ([AFRL](http://afrl.cse.sc.edu/afrl/home/)) under supervision of [Dr. Ioannis Rekleitis](https://cse.sc.edu/~yiannisr/). My current research is on area coverage both for two and three dimensional areas. I want to enable more efficient and task oriented coverage techniques for environmental monitoring and survey operations.
-
 **Research Interests:**
 
 * area coverage, marine robotics, multi-robot systems, path planning, exploration, autonomous systems
